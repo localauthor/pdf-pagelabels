@@ -1,0 +1,15 @@
+* pdf-pagelabels.el
+
+This package produces a Transient interface for the Python utility
+pagelabels.py, which allows users to manipulate PDF page labels.
+
+For example, you can label introductory pages in a PDF copy of a book with
+the appropriate Roman numerals (eg, i-xvii), and label all subsequent
+book pages with the appropriate page numbers (eg, 1-280).
+
+pagelabels.py is found here: https://github.com/lovasoa/pagelabels-py
+
+This package presumes that python3 and pagelabels.py are available on your system.
+
+
+[[https://github.com/localauthor/pdf-pagelabels/blob/main/images/pdf-pagelabels-menu.jpg?raw=true]]
